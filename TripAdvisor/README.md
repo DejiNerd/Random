@@ -1,6 +1,6 @@
 # PLAGIARISM CHECKER
 
-A plagiarism using N-tuple comparator. This was written for a TripAdvisor Interview
+A plagiarism checker using N-tuple comparator. This was written for a TripAdvisor Interview
 
 Assumptions made:
    * case sensitivity doesn't matter
