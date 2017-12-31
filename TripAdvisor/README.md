@@ -1,9 +1,9 @@
-PLAGIARISM CHECKER written for a TripAdvisor Interview
+# PLAGIARISM CHECKER written for a TripAdvisor Interview
 
 Assumptions made:
-    - case sensitivity doesn't matter
-    - non letters are not considered, so punctuations and all others are removed from text
-    - plurals are seen as completely different words (i.e. cup and cups are two different words)
+    * case sensitivity doesn't matter
+    * non letters are not considered, so punctuations and all others are removed from text
+    * plurals are seen as completely different words (i.e. cup and cups are two different words)
 
 ./src contains the main class (PlagiarismDetector), and the NTupleComparator class contains most the functionality
 ./test contains NTupleComparator class to make sure code work as expected
