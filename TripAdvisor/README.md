@@ -1,4 +1,6 @@
-# PLAGIARISM CHECKER written for a TripAdvisor Interview
+# PLAGIARISM CHECKER
+
+A plagiarism using N-tuple comparator. This was written for a TripAdvisor Interview
 
 Assumptions made:
    * case sensitivity doesn't matter
@@ -11,3 +13,5 @@ Assumptions made:
 file1, file2, testfile2 and syns the contain texts for the sample cases given in the e-mail description
 
 mysamplefile1, mysamplefile2, and mysynonyms are the custom text files I made
+
+*********By Ayodeji Marquis*********
